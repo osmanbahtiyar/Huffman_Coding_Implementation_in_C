@@ -20,6 +20,6 @@ I used the C programming language in this project because it is a low-level lang
 
 ## Screenshots
 
-<img src="img/screenshot1.PNG" height = "400" width = "600">
+<img src="img/screenshot1.PNG" height = "400" width = "800">
 
-<img src="img/screenshot2.PNG" height = "400" width = "600">
+<img src="img/screenshot2.PNG" height = "400" width = "800">
